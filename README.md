@@ -3,6 +3,7 @@ Clojure based GUI application to manage DVD renting store. Uses Clojure function
 
 
 Features:
+
 	1. 'Movies' table populates movie name, quantity and price information.
 	
 	2. 'Renter' table populates ranter-name, due-date and chrges.
