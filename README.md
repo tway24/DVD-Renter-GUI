@@ -14,7 +14,8 @@ Features:
 	
 	5. 'Return' a DVD by clicking on 'Renter' table then select name of the renter.
 	
-	6. To find a movie, 'Find' menu can be used. It iwll ask for movie-name and then user can select quantity and/or price using radio button
+	6. To find a movie, 'Find' menu can be used. It iwll ask for movie-name and then 
+	   user can select quantity and/or price using radio button
 	
 	7. To add movie to inventory, 'Edit' menu is used.
 	
